@@ -1,4 +1,3 @@
-# Customer_Churn_Prediction.
 Customer Churn Prediction
 A Machine Learning project that predicts whether a telecom customer is likely to churn using a Random Forest Classifier.
 
